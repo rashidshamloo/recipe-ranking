@@ -12,7 +12,6 @@ import MoreRecipesCard from '@/components/MoreRecipesCard';
 
 const Recipe = () => {
   const params = useGlobalSearchParams();
-  if (!params.categoryId) console.log('no params in more');
   const [categoryId, title] = (params.categoryId as string).split('-');
   const { data: recipes } = useGetRecipeQuery(Number(categoryId));
   return (
