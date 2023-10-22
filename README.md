@@ -24,8 +24,8 @@ https://github.com/rashidshamloo/recipe-ranking/assets/121501991/d5faacee-4fa9-4
 
 ### Screenshot
 
-![Screenshot 01](./screenshots/01.png) ![Screenshot 02](./screenshots/02.png) ![Screenshot 03](./screenshots/03.png) ![Screenshot 04](./screenshots/04.png)
-![Screenshot 05](./screenshots/05.png) ![Screenshot 06](./screenshots/06.png) ![Screenshot 07](./screenshots/07.png) ![Screenshot 08](./screenshots/08.png)
+![Screenshot 01](./screenshots/01.png)![Screenshot 02](./screenshots/02.png)![Screenshot 03](./screenshots/03.png)![Screenshot 04](./screenshots/04.png)
+![Screenshot 05](./screenshots/05.png)![Screenshot 06](./screenshots/06.png)![Screenshot 07](./screenshots/07.png)![Screenshot 08](./screenshots/08.png)
 
 ## Built with
 
