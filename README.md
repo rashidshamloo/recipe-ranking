@@ -36,6 +36,7 @@ https://github.com/rashidshamloo/recipe-ranking/assets/121501991/d5faacee-4fa9-4
 - [Tailwind CSS](https://tailwindcss.com/)
 - [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
 - [Zod](https://zod.dev/)
+- [Rakuten Recipe Ranking API](https://webservice.rakuten.co.jp/documentation/recipe-category-ranking)
 
 ## My process
 
